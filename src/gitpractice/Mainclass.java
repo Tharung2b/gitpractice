@@ -6,7 +6,7 @@ public class Mainclass {
 		// TODO Auto-generated method stub
 		//line12
 		//line2 
-
+ 
 	}
 
 }
